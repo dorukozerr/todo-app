@@ -1,6 +1,6 @@
 # CLI Todo App
 
-## To run this app in your machine follow theese instructions
+ To run this app in your machine follow theese instructions
 
 Instructions should work for mac/linux (didn't tested for linux but I belive it should work)
 
@@ -12,7 +12,7 @@ Instructions should work for mac/linux (didn't tested for linux but I belive it 
 -   If you want you can add td to your `.zshrc` or `.bashrc` file to display active todos when you open your terminal.
 -   If commands are not working try adding `export PATH=/usr/local/bin:$PATH"` to your `.zshrc` or `.bashrc` file.
 
-### Commands
+Commands
 
 -   list active todos -> td
 -   list all todos    -> td -a
@@ -20,4 +20,4 @@ Instructions should work for mac/linux (didn't tested for linux but I belive it 
 -   check todo N      -> tdd N
 -   delete todo N     -> tdr N
 
-I made this project to getting familliar with GO, this is a minimal replica of devtodo app. I used to use it on my linux machine few years ago and couldnt find theexactly same functionality with same commands for my mac so I made this. Hope you enjoyed it.
+I made this project to getting familliar with GO, this is a minimal replica of devtodo app. I used to use it on my linux machine few years ago and couldnt find theexactly same functionality with same commands for my mac so I made this.
