@@ -18,6 +18,6 @@ Commands
 -   list all todos    -> td -a
 -   add todo          -> tda
 -   check todo N      -> tdd N
--   delete todo N     -> tdr N
+-   remove todo N     -> tdr N
 
 I made this project to getting familliar with GO, this is a minimal replica of devtodo app. I used to use it on my linux machine few years ago and couldnt find theexactly same functionality with same commands for my mac so I made this.
