@@ -1,6 +1,6 @@
 # CLI Todo App
 
- To run this app in your machine follow theese instructions
+To run this app in your machine follow theese instructions
 
 Instructions should work for mac/linux (didn't tested for linux but I belive it should work)
 
