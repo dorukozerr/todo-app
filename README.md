@@ -12,10 +12,10 @@ Instructions should work for mac/linux (didn't tested for linux but I belive it 
 -   If you want you can add `td` to your `.zshrc` or `.bashrc` file to display active todos when you open your terminal.
 -   If commands are not working try adding `export PATH=/usr/local/bin:$PATH"` to your `.zshrc` or `.bashrc` file.
 
-| Command          | Description        |
-| :--------------- | :----------------- |
-| <kbd>td</kbd>    | list active todos  |
-| <kbd>td -a</kbd> | list all todos     |
-| <kbd>tda</kbd>   | Add a todo         |
-| <kbd>tdd N</kbd> | check todo N       |
-| <kbd>tdr N</kbd> | remove todo N      |
+| Command | Description        |
+| :------ | :----------------- |
+| `td`    | list active todos  |
+| `td -a` | list all todos     |
+| `tda`   | Add a todo         |
+| `tdd N` | check todo N       |
+| `tdr N` | remove todo N      |
