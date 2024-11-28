@@ -1,6 +1,6 @@
 # CLI Todo App
 
-### Requirements
+### Requirements 
 
 -   You need Go installed on your system.
 -   There should be no ~/.todo directory.
